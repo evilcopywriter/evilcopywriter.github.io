@@ -22,7 +22,7 @@ i {
   top: 5px;
 }
 html {
-  /*font-family: 'Playfair Display', serif;*/
+  font-family: 'Playfair Display', serif;
 }
 p {
   margin-top: 7px;
@@ -41,6 +41,9 @@ h3 {
 }
 h5 {
   margin-top: 7px;
+}
+img {
+  margin-top: 23px;
 }
 @media screen and (max-width: 600px) {
   .container {
